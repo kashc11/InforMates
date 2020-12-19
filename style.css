@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+}
+.front-page
+{
+  background-image: url("front.jpg");
+  background-position: center;
+  height: 60rem;
+  width: 100%;
+  background-size: cover;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+  font-weight: bold;
+}
+.navbar-brand {
+  font-size: 2.5rem;
+  font-weight: bold;
+  margin: 5px;
+  margin-right: 55%;
+}
